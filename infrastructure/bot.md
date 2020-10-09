@@ -17,6 +17,8 @@ Get the release from public repo and get started.
 
 `rm bot.zip`
 
+`cd releases`
+
 `chmod +x bot`
 
 `chmod -R +x examples`
